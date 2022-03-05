@@ -1,0 +1,1 @@
+$ docker run --name aspnet-basket-redis -d redis
